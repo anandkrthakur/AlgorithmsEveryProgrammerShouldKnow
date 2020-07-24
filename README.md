@@ -3,11 +3,12 @@ List of Algorithms that every Programmer should know ...
 
 Here you will find all the listed Algorithms written in Python and some in C, C++. List of Alorithmas are:
 
-- BinarySearch_Iterative
-- BinarySearch_Recursive
+- BinarySearch
 - Merge Sort
 - QuickSort
-- Breadth First Search (BFS)_Iterative
-- Breadth First Search (BFS)_Recursive
-- Depth First Search (DFS)_Iterative
-- Depth First Search (DFS)_Recursive
+- Breadth First Search (BFS)
+- Depth First Search (DFS)
+- Kruskal's Algorithm
+- Floyd Warshall Algorithm
+- Dijkstra's Algorithm
+- Bellman Ford Algorithm
