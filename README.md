@@ -12,3 +12,12 @@ Here you will find all the listed Algorithms written in Python and some in C, C+
 - Floyd Warshall Algorithm
 - Dijkstra's Algorithm
 - Bellman Ford Algorithm
+- Kadane's Algorithm
+- Lee Algorithm
+- Flood Fill Algorithm
+- Cycle Detection Algorithm
+- Kahn's Topological Sort Algorithm
+- KMP Algorithm
+- Insertion Sort
+- Selection Sort
+- 
