@@ -20,4 +20,6 @@ Here you will find all the listed Algorithms written in Python and some in C, C+
 - KMP Algorithm
 - Insertion Sort
 - Selection Sort
-- 
+- Heap Sort
+- Counting Sort
+- Quickselect Algorithm
