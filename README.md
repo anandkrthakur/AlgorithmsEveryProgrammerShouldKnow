@@ -1,7 +1,8 @@
 # AlgorithmsEveryProgrammerShouldKnow
-List of Algorithms that every Programmer should know ...
 
-Here you will find all the listed Algorithms written in Python and some in C, C++. List of Alorithmas are:
+## List of Algorithms that every Programmer should know ...
+
+Here you will find all the listed Algorithms written in Python and some in C, C++. List of Alorithms are:
 
 - BinarySearch
 - Merge Sort
@@ -23,3 +24,7 @@ Here you will find all the listed Algorithms written in Python and some in C, C+
 - Heap Sort
 - Counting Sort
 - Quickselect Algorithm
+- Boyer Moore Majority Vote Algorithm
+- Euclids Algorithm
+- Extended Euclidean Algorithm
+- Huffman Coding
